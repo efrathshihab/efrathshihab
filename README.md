@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/efrathshihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efrathshihab" height="30" width="40" /></a>
 <a href="https://fb.com/ehshihab2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehshihab2k" height="30" width="40" /></a>
 <a href="https://instagram.com/efrathshihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efrathshihab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@efrathshihab07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@efrathshihab07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/efrathshihab07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="efrathshihab07" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/cJgknBsQ4e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cJgknBsQ4e" height="30" width="40" /></a>
 </p>
 
