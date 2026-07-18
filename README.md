@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efrath Hossain Shihab</h1>
 <h3 align="center">I’m a passionate and creative CSE student who loves blending technology with design and video to create meaningful digital experiences. As a Graphic Designer, Video Editor, and Social Media Manager, I focus on building strong brand identities and boosting engagement through creative visuals. I’ve led some of the biggest student communities in Bangladesh like The Daily AIUB and The Daily University, handling digital content and community growth. With a foundational knowledge of programming languages such as C++, C#, Java, and SQL, I’m also actively expanding my skills in web development. I’m organized, detail-oriented, and always eager to learn new tools and create content that truly connects with people.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Web Devlopment**
 
 - 📫 How to reach me **contact.ehshihab@gmail.com**
 
