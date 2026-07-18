@@ -128,11 +128,17 @@ I build clean, functional web experiences and create visual content that communi
 
 <br/>
 
+<!--
+═══════════════════════════════════════════════════════════
+  FEATURED PROJECTS — commented out, not in use right now.
+  Uncomment this entire block when you're ready to add projects.
+═══════════════════════════════════════════════════════════
+
 ---
 
-<!-- ── FEATURED PROJECTS ─────────────────────────────────────────────────────── -->
-<!-- REPLACE: Update each project's title, description, tech stack, repo link,  -->
-<!--          and live demo URL with your actual project details.               -->
+── FEATURED PROJECTS ──────────────────────────────────────
+REPLACE: Update each project's title, description, tech stack, repo link,
+         and live demo URL with your actual project details.
 
 ## Featured Projects
 
@@ -143,7 +149,7 @@ I build clean, functional web experiences and create visual content that communi
 <td width="50%" valign="top">
 
 ### Project One
-<!-- REPLACE: Add your actual project title -->
+REPLACE: Add your actual project title
 
 A brief, punchy description of what this project does and the problem it solves. Keep it to 1–2 sentences.
 
@@ -156,7 +162,7 @@ A brief, punchy description of what this project does and the problem it solves.
 <td width="50%" valign="top">
 
 ### Project Two
-<!-- REPLACE: Add your actual project title -->
+REPLACE: Add your actual project title
 
 A brief, punchy description of what this project does and the problem it solves. Keep it to 1–2 sentences.
 
@@ -171,7 +177,7 @@ A brief, punchy description of what this project does and the problem it solves.
 <td width="50%" valign="top">
 
 ### Project Three
-<!-- REPLACE: Add your actual project title -->
+REPLACE: Add your actual project title
 
 A brief, punchy description of what this project does and the problem it solves. Keep it to 1–2 sentences.
 
@@ -183,7 +189,7 @@ A brief, punchy description of what this project does and the problem it solves.
 <td width="50%" valign="top">
 
 ### Project Four
-<!-- REPLACE: Add your actual project title -->
+REPLACE: Add your actual project title
 
 A brief, punchy description of what this project does and the problem it solves. Keep it to 1–2 sentences.
 
@@ -200,6 +206,7 @@ A brief, punchy description of what this project does and the problem it solves.
 <br/>
 
 ---
+-->
 
 <!-- ── CURRENT FOCUS ─────────────────────────────────────────────────────────── -->
 
