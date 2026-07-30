@@ -276,7 +276,6 @@ A brief, punchy description of what this project does and the problem it solves.
 
 **Thanks for visiting.** If something here resonates with you, feel free to reach out.
 
-![Made with](https://img.shields.io/badge/Made%20with-Markdown-1f425f?style=flat-square)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-58a6ff?style=flat-square)
+
 
 </div>
