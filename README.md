@@ -31,15 +31,26 @@
 
 ## About Me
 
-```
-> Location   :  Dhaka, Bangladesh
-> Education  :  B.Sc. in Computer Science & Engineering — AIUB
-> Focus      :  Full Stack Development · Machine Learning · Data Engineering
-> Community  :  The Daily AIUB · The Daily University
-> Contact    :  contact.ehshihab@gmail.com
-```
+```yaml
+name     : Efrath Hossain Shihab
+location : Dhaka, Bangladesh 🇧🇩
+role     : Full-Stack Developer & Content Creator
+education: CSE @ AIUB
 
-I build clean, functional web experiences and create visual content that communicates effectively. I've led digital operations for two of Bangladesh's prominent student media communities, managing content strategy and brand identity at scale. Currently deepening expertise in full-stack architecture and ML pipelines.
+interests:
+  - Full Stack Development
+  - Machine Learning & Data Engineering
+  - Video Editing & Visual Storytelling
+  - Open Source & Community Building
+
+learning : React · Node.js · ML Pipelines · Cloud Technologies
+
+goals_2025:
+  - Ship 3 Production-Ready Full-Stack Apps
+  - Complete an ML Certification
+  - Contribute to Open Source Projects
+  - Lead & Grow Student Media Communities
+```
 
 <br/>
 
