@@ -191,11 +191,24 @@ A brief, punchy description of what this project does and the problem it solves.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efrathshihab&theme=github_dark" width="100%" alt="Profile Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efrathshihab&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efrathshihab&theme=github_dark" width="32%" alt="Top Languages by Commit"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efrathshihab&theme=github_dark" width="32%" alt="Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=efrathshihab&theme=github_dark&utcOffset=6" width="49%" alt="Commits by Time"/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efrathshihab&theme=github_dark" width="100%" alt="Top Languages by Repo"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efrathshihab&theme=github_dark" width="100%" alt="Top Languages by Commit"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efrathshihab&theme=github_dark" width="100%" alt="Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=efrathshihab&theme=github_dark&utcOffset=6" width="100%" alt="Commits by Time"/>
+</td>
+</tr>
+</table>
 
 </div>
 
