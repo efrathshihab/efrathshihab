@@ -16,10 +16,14 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=efrathshihab&label=Profile+Views&color=0e75b6&style=flat)
+<!-- Profile Views & Stats Bar -->
+![Profile Views](https://komarev.com/ghpvc/?username=efrathshihab&label=Profile+Views&color=58a6ff&style=for-the-badge&abbreviated=true)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/efrathshihab?label=Followers&style=flat&color=0e75b6&labelColor=0d1117)](https://github.com/efrathshihab)
+[![Followers](https://img.shields.io/github/followers/efrathshihab?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=followers)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/efrathshihab?label=Stars&style=for-the-badge&color=ffa657&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
+&nbsp;
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/efrathshihab&query=public_repos&label=Repos&style=for-the-badge&color=3fb950&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
 
 </div>
 
