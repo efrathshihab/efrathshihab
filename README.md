@@ -183,25 +183,21 @@ A brief, punchy description of what this project does and the problem it solves.
 ---
 -->
 
-<!-- ── CURRENT FOCUS ─────────────────────────────────────────────────────────── -->
+<!-- ── DETAILED STATS ──────────────────────────────────────────────────────── -->
 
-## Current Focus
+## Detailed Stats
 
-```yaml
-learning:
-  - Full Stack Web Development   # React, Node.js, REST APIs, system design
-  - Machine Learning             # Supervised learning, model evaluation, scikit-learn
-  - Data Engineering             # Pipelines, ETL, data modeling
+<div align="center">
 
-reading:
-  - Clean Code — Robert C. Martin
-  - Designing Data-Intensive Applications — Martin Kleppmann
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efrathshihab&theme=github_dark" width="100%" alt="Profile Details"/>
 
-goal_2025:
-  - Ship 3 production-ready full-stack projects
-  - Complete an ML certification
-  - Contribute to 2 open-source projects
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efrathshihab&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efrathshihab&theme=github_dark" width="32%" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efrathshihab&theme=github_dark" width="32%" alt="Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=efrathshihab&theme=github_dark&utcOffset=6" width="49%" alt="Commits by Time"/>
+
+</div>
 
 <br/>
 
