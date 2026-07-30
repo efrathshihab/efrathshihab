@@ -96,25 +96,8 @@ goals_2025:
 
 <div align="center">
 
-<!-- Stats + Streak side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=efrathshihab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrathshihab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=efrathshihab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1f2e&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="500"/>
-
-<br/><br/>
-
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=efrathshihab&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=0d1117&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
-<br/><br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=efrathshihab&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=efrathshihab&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Efrath%27s%20Contribution%20Graph&title_color=58a6ff&radius=8" alt="Contribution Graph" width="100%"/>
 
 </div>
 
