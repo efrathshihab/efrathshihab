@@ -31,6 +31,10 @@
 
 ## About Me
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```yaml
 name     : Efrath Hossain Shihab
 location : Dhaka, Bangladesh 🇧🇩
@@ -51,6 +55,15 @@ goals_2025:
   - Contribute to Open Source Projects
   - Lead & Grow Student Media Communities
 ```
+
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="./assets/web-dev.gif" alt="Developer Animation" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
