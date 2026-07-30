@@ -23,7 +23,7 @@
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/efrathshihab?label=Stars&style=for-the-badge&color=ffa657&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
 &nbsp;
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/efrathshihab&query=public_repos&label=Repos&style=for-the-badge&color=3fb950&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/efrathshihab&query=$.public_repos&label=Repos&style=for-the-badge&color=3fb950&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
 
 </div>
 
