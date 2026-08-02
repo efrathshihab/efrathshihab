@@ -52,7 +52,7 @@ interests:
 
 learning : React · Node.js · ML Pipelines · Cloud Technologies
 
-goals_2025:
+current_focus:
   - Ship 3 Production-Ready Full-Stack Apps
   - Complete an ML Certification
   - Contribute to Open Source Projects
