@@ -19,14 +19,8 @@
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/efrathshihab?label=Stars&style=for-the-badge&color=ffa657&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
 
-<br/>
-
-<!-- Profile Views & Stats Bar -->
-
 
 </div>
-
-<br/>
 
 ---
 
