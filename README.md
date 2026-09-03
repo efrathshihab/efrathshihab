@@ -95,8 +95,8 @@ current_focus:
 
 <!-- Activity Graph -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=efrathshihab&theme=github-compact&hide_border=true"
-  alt="Efrath's GitHub Contribution Graph"
+  src="https://github-readme-activity-graph-bay-five.vercel.app/graph?username=efrathshihab&theme=github-compact&hide_border=true"
+  alt="Efrath Hossain Shihab GitHub Activity Graph"
   width="100%"
 />
 
