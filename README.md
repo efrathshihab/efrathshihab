@@ -11,8 +11,13 @@
 
 <img src="./assets/github-banner.png" alt="Efrath Hossain Shihab GitHub Banner" width="100%"/>
 
-<!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+for+the+web.;Crafting+stories+through+video.;Learning+ML+%26+Data+Engineering.;Based+in+Dhaka%2C+Bangladesh.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=35&lines=Building+things+for+the+web.;Crafting+stories+through+video.;Learning+ML+%26+Data+Engineering.;Based+in+Dhaka%2C+Bangladesh.)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=efrathshihab&label=Profile+Views&color=58a6ff&style=for-the-badge&abbreviated=true)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/efrathshihab?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=followers)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/efrathshihab?label=Stars&style=for-the-badge&color=ffa657&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
 
 <br/>
 
