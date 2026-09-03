@@ -9,7 +9,7 @@
 
 <!-- ── HERO BANNER ─────────────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Efrath%20Hossain%20Shihab&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Video%20Editor%20%E2%80%A2%20Content%20Creator&descSize=18&descAlignY=60&descColor=8b949e&animation=fadeIn" alt="Efrath Hossain Shihab - Full Stack Developer, CSE Student at AIUB" width="100%"/>
+<img src="./assets/github-banner.png" alt="Efrath Hossain Shihab GitHub Banner" width="100%"/>
 
 <!-- Animated Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+for+the+web.;Crafting+stories+through+video.;Learning+ML+%26+Data+Engineering.;Based+in+Dhaka%2C+Bangladesh.)](https://git.io/typing-svg)
