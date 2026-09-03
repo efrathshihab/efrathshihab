@@ -22,11 +22,6 @@
 <br/>
 
 <!-- Profile Views & Stats Bar -->
-![Profile Views](https://komarev.com/ghpvc/?username=efrathshihab&label=Profile+Views&color=58a6ff&style=for-the-badge&abbreviated=true)
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/efrathshihab?label=Followers&style=for-the-badge&color=58a6ff&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=followers)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/efrathshihab?label=Stars&style=for-the-badge&color=ffa657&labelColor=161b22&logo=github&logoColor=white)](https://github.com/efrathshihab?tab=repositories)
 
 
 </div>
