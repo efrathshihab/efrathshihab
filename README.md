@@ -189,42 +189,13 @@ A brief, punchy description of what this project does and the problem it solves.
 ## Detailed Stats
 
 <div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efrathshihab&theme=github_dark"
-  width="98%"
-  alt="Profile Details"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efrathshihab&theme=github_dark"
-  width="48%"
-  alt="Top Languages by Repo"
-/>
-&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efrathshihab&theme=github_dark"
-  width="48%"
-  alt="Top Languages by Commit"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efrathshihab&theme=github_dark"
-  width="48%"
-  alt="GitHub Stats"
-/>
-&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=efrathshihab&theme=github_dark&utcOffset=6"
-  width="48%"
-  alt="Commits by Time"
-/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efrathshihab&theme=github_dark" width="96%" alt="Profile Details"/><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efrathshihab&theme=github_dark" width="48%" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efrathshihab&theme=github_dark" width="48%" alt="Top Languages by Commit"/><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efrathshihab&theme=github_dark" width="48%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=efrathshihab&theme=github_dark&utcOffset=6" width="48%" alt="Commits by Time"/>
 </div>
+
 
 ---
 
