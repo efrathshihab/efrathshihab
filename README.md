@@ -9,7 +9,7 @@
 
 <!-- ── HERO BANNER ─────────────────────────────────────────────────────────── -->
 
-<img src="./assets/github-banner.png" alt="Efrath Hossain Shihab GitHub Banner" width="100%"/>
+<img src="./assets/efrath-hossain-shihab-github.png" alt="Efrath Hossain Shihab GitHub Banner" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=35&lines=Building+things+for+the+web.;Crafting+stories+through+video.;Learning+ML+%26+Data+Engineering.;Based+in+Dhaka%2C+Bangladesh.)](https://git.io/typing-svg)
 
