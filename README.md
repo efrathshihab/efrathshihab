@@ -94,7 +94,11 @@ current_focus:
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=efrathshihab&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Efrath%27s%20Contribution%20Graph&title_color=58a6ff&radius=8" alt="Contribution Graph" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=efrathshihab&theme=github-compact&hide_border=true"
+  alt="Efrath's GitHub Contribution Graph"
+  width="100%"
+/>
 
 </div>
 
